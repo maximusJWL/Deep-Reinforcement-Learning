@@ -19,10 +19,15 @@ The algorithm can be loaded from the checkpoint zip file to save you needing to 
 
 
 Required packages and versions:
+
 Python ---------- 3.11.0
+
 Gymnasium ------- 1.0.0
+
 Raylib ---------- 2.45.0
+
 Pandas ---------- 2.2.3
+
 Torch ----------- 2.7.0
 
 full list (maybe unnecessary but listed in case of phantom dependencies):
