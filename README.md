@@ -1,17 +1,22 @@
 # Deep-Reinforcement-Learning
 
 This repo is for a deep reinforcement learning project on the Taxi-v3 and ALE Boxing-v5 environments from Gymnasium.
+
 The algorithms used in the project are: Q-Learning, Duelling DQN with Prioritised Experience Replay, Proximal Policy Optimisation.
 
 
 "Taxi_DQN.ipynb" is the notebook for the training and evaluation of the DQN, with visualisations.
+
 "Taxi QL.ipynb" is the notebook for the training and evaluation of the QL algorithms, with visualisations.
 
 These can be run in google colab out of the box as of 10/05/2025.
 
 "ALE Boxing training.py" is the training script for the PPO algorithm.
+
 "ALE Boxing demo.py" is the script for showing the agent playing the game (agent loads from a checkpoint file).
+
 The algorithm can be loaded from the checkpoint zip file to save you needing to train it yourself. 
+
 
 Required packages and versions:
 Python ---------- 3.11.0
